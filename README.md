@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **devbugman/devbugman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Introduce 👋 
 
-항상 배움에 대한 열정을 가지고 정진하겠습니다.
+- 저는 Wi Chan Bok 입니다.
+- Back-End Developer
+- 주로 사용하는 기술 스택은 Spring(Java) 입니다.
+
 
 
 <h3>🚀 Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br>
@@ -36,8 +37,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-
 </p>
+
 <h3>📚 Learning</h3>
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -52,11 +53,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Querydsl-0089CF?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-
-  
 </p>
 
-[![chanbok's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbugman&show_icons=true&theme=highcontrast)](https://github.com/devbugman/github-readme-stats) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbugman&layout=compact&theme=highcontrast)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devbugman&show_icons=true&theme=highcontrast"/>
+  <!-- [![chanbok's GitHub stats]()](https://github.com/devbugman/github-readme-stats)  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbugman&layout=compact&theme=highcontrast"/>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbugman&layout=compact&theme=highcontrast) -->
+</p>
 
